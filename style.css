@@ -1,0 +1,49 @@
+.container-fluid {
+    padding: 0px;
+}
+#instagramImage {
+    border: 0;
+    width: 30px;
+    height: 30px;
+}
+.vista {
+    height: 20px;
+}
+#camera{
+    border: 1px rgb(127, 127, 129) solid;
+    padding: 4px;
+    border-radius: 2px;
+}
+#location{
+    border: 1px rgb(127, 127, 129) solid;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 2px;
+}
+.top{
+   margin-top: 25px;
+   display:flex;
+   justify-content: center;
+}
+.card{
+    width: 600px ;
+    height: 600px;
+}
+.col-4{
+    margin-top: 1px;
+    padding: 1px;
+}
+.images{
+   max-height: 460px;
+   width: 100%;
+}
+.col-1{
+    font-size: 23px;
+    margin-top: 9px;
+}
+.col-n{
+    font-size: 35px;
+    margin-left: 16px;
+}
